@@ -1,3 +1,4 @@
+![logo](https://github.com/dreammehedi/dreammehedi/blob/main/linkedin%20banner%20mehedi.png)
 <h1 align="center">Hi 👋, I'm Md. Mehedi Hassan</h1>
 <h3 align="center">A junior frontend developer from Bangladesh</h3>
 <img src="https://i.ibb.co/QNqMszv/Animation-1718013791408.gif" alt="coding" align="right" width="350" />
