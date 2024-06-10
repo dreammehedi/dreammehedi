@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md. Mehedi Hassan</h1>
 <h3 align="center">A junior frontend developer from Bangladesh</h3>
-
+<img align="right" alt="coding" width="400px" src="https://i.ibb.co/QNqMszv/Animation-1718013791408.gif"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dreammehedi&label=Profile%20views&color=0e75b6&style=flat" alt="dreammehedi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dreammehedi" alt="dreammehedi" /></a> </p>
