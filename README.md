@@ -3,7 +3,7 @@
 <img src="https://i.ibb.co/QNqMszv/Animation-1718013791408.gif" alt="coding" align="right" width="350" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dreammehedi&label=Profile%20views&color=0e75b6&style=flat" alt="dreammehedi" /> </p>
 
-- 🔭 I’m currently working on [EduCollaboration](https://github.com/dreammehedi/best-ecommerce-project.git)
+- 🔭 I’m currently working on [FoodTrove E-commerce](https://github.com/dreammehedi/best-ecommerce-project.git)
 
 - 🌱 I’m currently learning **Redux, Mongoose, Next.js**
 
