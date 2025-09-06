@@ -5,8 +5,8 @@
 
 
 ## 🌱 About Me
-- 🔭 Currently working on [FoodTrove E-commerce](https://github.com/dreammehedi/best-ecommerce-project.git)  
-- 🌱 Learning **Redux, Mongoose, Next.js**  
+- 🔭 Currently working on [Ultra E-commerce](https://e-commerce-ultra-byte.vercel.app/)  
+- 🌱 Learning **Redux, Next.js, Prisma**  
 - 👯 Looking to collaborate on **React.js/Next.js projects**  
 - 📫 Reach me at **dreammehedihassan@gmail.com**  
 - 📄 My Resume: [View Here](https://drive.google.com/file/d/1skAkbb5Wd4xI-hogB5nupKO_z8FLUVK3/view?usp=drive_link)  
@@ -54,7 +54,7 @@
 
 ## 📌 Top Projects
 
-### 1. [ReadersFM](#)
+### 1. [ReadersFM](https://readersfm.com/)
 **Aug 2025 – Sep 2025**  
 *Full-featured online book platform with PDF, EPUB, Audio, highlights, notes & subscription features.*
 
@@ -62,7 +62,7 @@
 - 🔑 Free & premium subscription, lifetime purchase options  
 - ⚡ Tech Stack: Next.js, Redux Toolkit, Tailwind CSS  
 
-### 2. [AksumBase](#)
+### 2. [AksumBase](https://aksumbase.com/)
 **Oct 2024 – Jan 2025**  
 *Full-stack real estate platform with multi-role authentication and property management.*
 
@@ -70,7 +70,7 @@
 - 🏘 Property add, approval workflow, top-placement for agents  
 - 📍 Map integration, React.js frontend, Express.js backend, MongoDB & Prisma  
 
-### 3. [2-Up Biker Gear](#)
+### 3. [2-Up Biker Gear](https://2up-biker-gear-frontend-three.vercel.app/)
 **Feb 2025 – May 2025**  
 *E-commerce platform for biker-related products with Stripe payment.*
 
