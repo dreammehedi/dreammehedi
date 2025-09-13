@@ -8,7 +8,7 @@
 
 ## 🌱 About Me
 - 🔭 Currently working on [Ultra E-commerce](https://e-commerce-ultra-byte.vercel.app/)  
-- 🌱 Learning **Redux, Next.js, Prisma**  
+- 🌱 Learning **React Native**  
 - 👯 Looking to collaborate on **React.js/Next.js projects**  
 - 📫 Reach me at **dreammehedihassan@gmail.com**  
 - 📄 My Resume: [View Here](https://drive.google.com/file/d/1skAkbb5Wd4xI-hogB5nupKO_z8FLUVK3/view?usp=drive_link)  
