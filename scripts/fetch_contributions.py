@@ -16,10 +16,10 @@ import requests
 from bs4 import BeautifulSoup
 
 
-USERNAME    = "Hxni786"
+USERNAME    = "dreammehedi"
 URL         = f"https://github.com/users/{USERNAME}/contributions"
-HEADERS     = {"User-Agent": "Mozilla/5.0 (compatible; profile-art-bot/1.0)"}
-TIMEOUT     = 20    # seconds
+HEADERS     = {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"}
+TIMEOUT     = 30    # seconds
 
 
 # ── Parsing ──────────────────────────────────────────────────────────

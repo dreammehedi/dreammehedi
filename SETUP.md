@@ -12,8 +12,8 @@
 GitHub renders `<username>/<username>/README.md` at the top of your profile.
 
 ```bash
-gh repo create Hxni786 --public --clone
-cd Hxni786
+gh repo create dreammehedi --public --clone
+cd dreammehedi
 mkdir -p scripts data .github/workflows
 ```
 
@@ -103,13 +103,13 @@ git commit -m "feat: add animated profile art"
 git push -u origin main
 ```
 
-Visit `github.com/Hxni786` — your README is live.
+Visit `github.com/dreammehedi` — your README is live.
 
 ---
 
 ## Step 10 — Enable the daily refresh
 
-The workflow `.github/workflows/update-profile-art.yml` auto-runs at 06:17 UTC (11:17 PKT) every day.
+The workflow `.github/workflows/update-profile-art.yml` auto-runs at 06:17 UTC (~12:17 BST) every day.
 
 Trigger it once manually to verify it works:
 1. Go to your repo → **Actions** tab

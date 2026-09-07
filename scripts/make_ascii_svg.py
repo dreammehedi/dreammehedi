@@ -16,7 +16,7 @@ from PIL import Image
 
 # ── Tunables ─────────────────────────────────────────────────────────
 SRC      = "source-prepped.png"
-OUT      = "hxni-ascii.svg"
+OUT      = "mehedi-ascii.svg"
 
 COLS     = 80           # character columns — increase for more detail
 ASPECT   = 0.46         # height/width ratio correction for Courier New chars

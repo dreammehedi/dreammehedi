@@ -17,22 +17,22 @@ STATIC = os.environ.get("STATIC") == "1"
 OUT    = "info-card.svg"
 
 # ── Your details ─────────────────────────────────────────────────────
-HANDLE  = "The Cipher Stack"
+HANDLE  = "Md. Mehedi Hassan (dreammehedi)"
 DIVIDER = "\u2500" * 40          # ────────────────── (box-drawing dash)
 
 #   (key, value)  –  empty key = continuation / indent line
 FIELDS = [
-    ("OS",       "The Cipher Stack v2026"),
-    ("Host",     "Islamabad, Pakistan  |  PKT (UTC+5)"),
-    ("Role",     "Full-Stack Dev + Content Creator"),
-    ("Stack",    "React 19 \u00b7 Vite \u00b7 Tailwind v4 \u00b7 Framer Motion"),
-    ("",         "Flutter \u00b7 Python \u00b7 MySQL \u00b7 Supabase"),
-    ("Brand",    "The Cipher Stack"),
-    ("Social",   "fb.com/Hxni786  |  @the.cipher.stack (IG)"),
-    ("LinkedIn", "Syed Hassan Dildar"),
-    ("Web",      "a-talking-cinematic-portfolio-yfq6.vercel.app"),
-    ("Study",    "BSCS \u2192 ML / AI Research"),
-    ("GitHub",   "github.com/Hxni786"),
+    ("OS",        "Mehedi DevOS v2026"),
+    ("Host",      "Dhaka, Bangladesh  |  BST (UTC+6)"),
+    ("Role",      "Full-Stack & Mobile App Developer"),
+    ("Mobile",    "React Native \u00b7 Expo \u00b7 Redux Toolkit \u00b7 NativeWind"),
+    ("Frontend",  "Next.js 15 \u00b7 React 19 \u00b7 TypeScript \u00b7 Tailwind CSS"),
+    ("Backend",   "Node.js \u00b7 Express.js \u00b7 Prisma \u00b7 PostgreSQL \u00b7 MongoDB"),
+    ("Portfolio", "https://www.devmehedi.com/"),
+    ("Social",    "facebook.com/dreammehedihassan"),
+    ("LinkedIn",  "linkedin.com/in/mehedi-hassan-miraj"),
+    ("GitHub",    "github.com/dreammehedi"),
+    ("Email",     "dreammehedihassan@gmail.com"),
 ]
 
 # ── Palette ──────────────────────────────────────────────────────────
