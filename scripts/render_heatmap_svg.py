@@ -31,19 +31,19 @@ PAD_R   = 10
 SVG_W = PAD_L + WEEKS * (CELL + GAP) - GAP + PAD_R
 SVG_H = PAD_T + DAYS  * (CELL + GAP) - GAP + PAD_B
 
-BG = "#0d0d0d"
+BG = "#070a13"
 
-# Gold ramp: level 0 (none) → level 4 (max activity)
+# Cyan & Cyber Blue ramp: level 0 (none) → level 4 (max activity)
 PALETTE = [
-    "#1a1a1a",   # 0 – no contributions
-    "#2d1a00",   # 1 – low
-    "#5c3a00",   # 2 – moderate
-    "#8B6914",   # 3 – active
-    "#D4AF37",   # 4 – high (Cipher Stack gold)
+    "#161b22",   # 0 – no contributions
+    "#0c4a6e",   # 1 – low (Deep Cyan/Ocean)
+    "#0284c7",   # 2 – moderate (Cyber Sky Blue)
+    "#38bdf8",   # 3 – active (Bright Sky Cyan)
+    "#00f2fe",   # 4 – high (Electric Cyber Cyan)
 ]
-GOLD     = "#D4AF37"
-DIM_GOLD = "#8B6914"
-SILVER   = "#8a8a8a"
+CYAN     = "#00F2FE"
+DIM_CYAN = "#0284C7"
+SILVER   = "#cbd5e1"
 
 FONT     = '"Courier New", Courier, monospace'
 FONT_SM  = 9       # month/day label size
@@ -117,6 +117,7 @@ def render(data: dict) -> str:
         f'width="{SVG_W}" height="{SVG_H}" '
         f'viewBox="0 0 {SVG_W} {SVG_H}">',
         f'<rect width="{SVG_W}" height="{SVG_H}" fill="{BG}" rx="6"/>',
+        f'<rect x="1" y="1" width="{SVG_W-2}" height="{SVG_H-2}" fill="none" stroke="{DIM_CYAN}" stroke-width="1" rx="5.5"/>',
         f'<style>text{{font-family:{FONT};}}</style>',
     ]
 

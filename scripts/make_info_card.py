@@ -36,10 +36,10 @@ FIELDS = [
 ]
 
 # ── Palette ──────────────────────────────────────────────────────────
-BG       = "#0d0d0d"
-GOLD     = "#D4AF37"
-DIM_GOLD = "#8B6914"
-SILVER   = "#b0b0b0"
+BG       = "#070a13"
+CYAN     = "#00F2FE"
+DIM_CYAN = "#0284C7"
+SILVER   = "#cbd5e1"
 FONT     = '"Courier New", Courier, monospace'
 
 # ── Geometry ─────────────────────────────────────────────────────────
@@ -90,21 +90,21 @@ def make_svg() -> str:
         # ── Background ──────────────────────────────────────────────
         f'<rect width="{SVG_W}" height="{SVG_H}" fill="{BG}" rx="8"/>',
 
-        # ── Gold border ─────────────────────────────────────────────
+        # ── Cyan border ─────────────────────────────────────────────
         f'<rect x="1" y="1" width="{SVG_W-2}" height="{SVG_H-2}" '
-        f'fill="none" stroke="{DIM_GOLD}" stroke-width="1" rx="7.5"/>',
+        f'fill="none" stroke="{DIM_CYAN}" stroke-width="1" rx="7.5"/>',
 
         # ── Title bar strip ─────────────────────────────────────────
-        f'<rect width="{SVG_W}" height="{TITLE_H}" fill="{DIM_GOLD}" '
+        f'<rect width="{SVG_W}" height="{TITLE_H}" fill="{DIM_CYAN}" '
         f'fill-opacity="0.18" rx="8"/>',
         # keep bottom edge of strip square
         f'<rect x="0" y="{TITLE_H//2}" width="{SVG_W}" height="{TITLE_H//2}" '
-        f'fill="{DIM_GOLD}" fill-opacity="0.18"/>',
+        f'fill="{DIM_CYAN}" fill-opacity="0.18"/>',
 
         # ── Decorative terminal dots (top-left) ─────────────────────
         f'<circle cx="16" cy="{TITLE_H//2}" r="4" fill="#ff5f56" opacity="0.7"/>',
         f'<circle cx="30" cy="{TITLE_H//2}" r="4" fill="#ffbd2e" opacity="0.7"/>',
-        f'<circle cx="44" cy="{TITLE_H//2}" r="4" fill="#27c93f" opacity="0.7"/>',
+        f'<circle cx="44" cy="{TITLE_H//2}" r="4" fill="#00f2fe" opacity="0.7"/>',
 
         css_block(),
     ]
@@ -113,7 +113,7 @@ def make_svg() -> str:
     title_y = TITLE_H - 9          # baseline in the title bar
     parts.append(text_tag(
         0, 58, title_y,
-        GOLD, "bold", FONT_PX + 1,
+        CYAN, "bold", FONT_PX + 1,
         encode(HANDLE),
     ))
 
@@ -121,7 +121,7 @@ def make_svg() -> str:
     div_y = TITLE_H + LINE_H
     parts.append(text_tag(
         1, PAD_X, div_y,
-        DIM_GOLD, "normal", FONT_PX - 1,
+        DIM_CYAN, "normal", FONT_PX - 1,
         encode(DIVIDER),
     ))
 
@@ -134,8 +134,8 @@ def make_svg() -> str:
             # "KEY     : value"
             padded_key = f"{key:<8}"
             content = (
-                f'<tspan font-weight="bold" fill="{GOLD}">{encode(padded_key)}</tspan>'
-                f'<tspan fill="{DIM_GOLD}"> : </tspan>'
+                f'<tspan font-weight="bold" fill="{CYAN}">{encode(padded_key)}</tspan>'
+                f'<tspan fill="{DIM_CYAN}"> : </tspan>'
                 f'<tspan fill="{SILVER}">{encode(val)}</tspan>'
             )
         else:

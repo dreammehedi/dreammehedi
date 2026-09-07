@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="440" height="407" viewBox="0 0 440 407">
-<rect width="100%" height="100%" fill="#0d0d0d" rx="8"/>
-<rect x="1" y="1" width="438" height="405" fill="none" stroke="#8B6914" stroke-width="1" rx="7.5"/>
+<rect width="100%" height="100%" fill="#070a13" rx="8"/>
+<rect x="1" y="1" width="438" height="405" fill="none" stroke="#0284C7" stroke-width="1" rx="7.5"/>
 <style>
-text { font-family: "Courier New", Courier, monospace; font-size: 9px; fill: #D4AF37; }
+text { font-family: "Courier New", Courier, monospace; font-size: 9px; fill: #00F2FE; }
 @keyframes fin { from { opacity: 0; } to { opacity: 1; } }
 .row { animation: fin 0.3s ease-out both; }
 .r0 { animation-delay: 0.000s; }

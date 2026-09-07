@@ -38,7 +38,7 @@
 <img src="https://img.shields.io/badge/LOCATION-Dhaka%2C%20Bangladesh-ffffff?style=for-the-badge&labelColor=000000&logo=googlemaps&logoColor=00e5ff" />
 &nbsp;
 <a href="https://www.devmehedi.com/" target="_blank">
-  <img src="https://img.shields.io/badge/PORTFOLIO-devmehedi.com-D4AF37?style=for-the-badge&labelColor=000000&logo=googlechrome&logoColor=D4AF37" />
+  <img src="https://img.shields.io/badge/PORTFOLIO-devmehedi.com-00e5ff?style=for-the-badge&labelColor=000000&logo=googlechrome&logoColor=00e5ff" />
 </a>
 
 <br/><br/>

@@ -24,7 +24,8 @@ ASPECT   = 0.46         # height/width ratio correction for Courier New chars
 FONT_PX  = 9            # font-size in px
 FONT_W   = 5.5          # px per char (Courier New 0.6em at 9px)
 LINE_H   = 11           # px per line (font + leading)
-GOLD     = "#D4AF37"    # The Cipher Stack gold
+CYAN     = "#00F2FE"    # Electric Cyber Cyan
+BORDER   = "#0284C7"    # Cyber Sky Blue
 
 # Density ramp: leftmost = bright (white → space), rightmost = dark (black → @)
 RAMP = " .`:-=+*cs#%@"
@@ -57,7 +58,7 @@ def build_svg(lines: list[str]) -> str:
     # ── CSS Animation Rules ──────────────────────────────────────────
     css_rules = [
         "<style>",
-        f'text {{ font-family: "Courier New", Courier, monospace; font-size: {FONT_PX}px; fill: {GOLD}; }}',
+        f'text {{ font-family: "Courier New", Courier, monospace; font-size: {FONT_PX}px; fill: {CYAN}; }}',
         "@keyframes fin { from { opacity: 0; } to { opacity: 1; } }",
         ".row { animation: fin 0.3s ease-out both; }",
     ]
@@ -102,8 +103,8 @@ def build_svg(lines: list[str]) -> str:
         f'viewBox="0 0 {svg_w:.0f} {svg_h:.0f}">',
 
         # Background
-        '<rect width="100%" height="100%" fill="#0d0d0d" rx="8"/>',
-        f'<rect x="1" y="1" width="{svg_w-2:.0f}" height="{svg_h-2:.0f}" fill="none" stroke="#8B6914" stroke-width="1" rx="7.5"/>',
+        '<rect width="100%" height="100%" fill="#070a13" rx="8"/>',
+        f'<rect x="1" y="1" width="{svg_w-2:.0f}" height="{svg_h-2:.0f}" fill="none" stroke="{BORDER}" stroke-width="1" rx="7.5"/>',
 
         "\n".join(css_rules),
         "\n".join(defs_parts),
