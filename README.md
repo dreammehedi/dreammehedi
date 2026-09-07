@@ -25,7 +25,7 @@
 <!--            2. CINEMATIC HEADER                             -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:050811,30:081c24,70:042b36,100:00e5ff&height=300&section=header&text=Md.%20Mehedi%20Hassan&fontSize=62&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=Full-Stack%20%26%20Mobile%20App%20Architect%20%E2%80%A2%20React%20Native%20%E2%80%A2%20Next.js%20%E2%80%A2%20Node.js&descAlignY=62&descSize=16&descFontColor=00e5ff&animation=fadeIn&stroke=00e5ff&strokeWidth=1" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:050811,30:081c24,70:042b36,100:00e5ff&height=300&section=header&text=Md.%20Mehedi%20Hassan&fontSize=62&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=Full-Stack%2C%20Mobile%20App%20%26%20DevOps%20Engineer%20%E2%80%A2%20React%20Native%20%E2%80%A2%20Next.js%20%E2%80%A2%20Node.js&descAlignY=62&descSize=15&descFontColor=00e5ff&animation=fadeIn&stroke=00e5ff&strokeWidth=1" />
 
 <br/>
 
@@ -33,7 +33,7 @@
   <img src="https://komarev.com/ghpvc/?username=dreammehedi&style=for-the-badge&color=042b36&label=PROFILE+VIEWS&labelColor=000000" />
 </a>
 &nbsp;
-<img src="https://img.shields.io/badge/STATUS-Open%20for%20Projects-00e5ff?style=for-the-badge&labelColor=000000&logo=checkmarx&logoColor=00e5ff" />
+<img src="https://img.shields.io/badge/STATUS-Available%20for%20Hire-00e5ff?style=for-the-badge&labelColor=000000&logo=checkmarx&logoColor=00e5ff" />
 &nbsp;
 <img src="https://img.shields.io/badge/LOCATION-Dhaka%2C%20Bangladesh-ffffff?style=for-the-badge&labelColor=000000&logo=googlemaps&logoColor=00e5ff" />
 &nbsp;
@@ -43,7 +43,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=00E5FF&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=52&lines=Full-Stack+%26+Mobile+App+Engineer+%F0%9F%9A%80;Crafting+Cross-Platform+Mobile+Apps+with+React+Native;Architecting+Scalable+Next.js+15+%26+TypeScript+Websites;Building+High-Performance+Node.js+%26+PostgreSQL+APIs;Writing+clean%2C+maintainable+code+that+scales+effortlessly." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=00E5FF&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=820&height=52&lines=Full-Stack%2C+Mobile+App+%26+DevOps+Developer+%F0%9F%9A%80;Crafting+Cross-Platform+Mobile+Apps+with+React+Native;Architecting+Scalable+Next.js+15+%26+TypeScript+Platforms;Building+High-Performance+Node.js+%26+Cloud+Microservices;Designing+Immersive%2C+Modern+3D+Digital+Experiences." alt="Typing SVG" />
 
 <br/><br/>
 
@@ -64,69 +64,134 @@
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    FEATURED PROJECT SHOWCASE              -->
+<!--            4. FEATURED PROJECT SHOWCASE (DEVMEHEDI.COM)   -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<h3><code>🚀 Featured Portfolio Projects</code></h3>
+<h3><code>🚀 Featured Portfolio Projects & Production Apps</code></h3>
+<p><sub>Directly showcased from <a href="https://www.devmehedi.com/">devmehedi.com</a></sub></p>
 <br/>
 
 <table border="0">
   <tr>
     <td align="center" width="50%" valign="top">
-      <a href="https://github.com/dreammehedi/fatepur-nayapara-mosjid-react-native-app" target="_blank">
-        <img src="https://images.unsplash.com/photo-1591604129939-f1efa4d9f7fa?auto=format&fit=crop&w=800&q=80" width="100%" style="border-radius: 8px;" />
+      <a href="https://texfashionglobal.vercel.app/" target="_blank">
+        <img src="https://www.devmehedi.com/images/tex-fashion-global-main.png" width="100%" style="border-radius: 8px; border: 1px solid #1f293d;" />
       </a>
       <br/><br/>
-      <b>🕌 Fatepur Nayapara Mosjid App</b><br/>
-      <sub>Universal Community Mosque Mobile Application</sub><br/>
-      <img src="https://img.shields.io/badge/React_Native-Expo-61DAFB?style=flat-square&logo=react" />
-      <img src="https://img.shields.io/badge/Redux-Toolkit-764ABC?style=flat-square&logo=redux" />
-      <img src="https://img.shields.io/badge/Tailwind-NativeWind-38B2AC?style=flat-square&logo=tailwind-css" />
+      <b>🏭 Tex Fashion Global — Export Garments Portal</b><br/>
+      <sub>100% export-oriented garments manufacturer & buying house platform showcasing knitted, denim, sweaters, and outerwear collections.</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript" />
       <br/><br/>
-      <a href="https://github.com/dreammehedi/fatepur-nayapara-mosjid-react-native-app" target="_blank"><b>[ View Repository → ]</b></a>
+      <a href="https://texfashionglobal.vercel.app/" target="_blank"><b>[ 🌐 Visit Live Site ↗ ]</b></a>
     </td>
     <td align="center" width="50%" valign="top">
-      <a href="https://readersfm.com/" target="_blank">
-        <img src="https://images.unsplash.com/photo-1512820790803-83ca734da794?auto=format&fit=crop&w=800&q=80" width="100%" style="border-radius: 8px;" />
+      <a href="https://cybershieldlab.vercel.app/" target="_blank">
+        <img src="https://www.devmehedi.com/images/cybershield-lab-main.png" width="100%" style="border-radius: 8px; border: 1px solid #1f293d;" />
       </a>
       <br/><br/>
-      <b>📖 ReadersFM — Digital Reading Platform</b><br/>
-      <sub>Multi-Format EPUB / PDF Reader & Audio Streaming Engine</sub><br/>
-      <img src="https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs" />
-      <img src="https://img.shields.io/badge/Tailwind-CSS-38B2AC?style=flat-square&logo=tailwind-css" />
-      <img src="https://img.shields.io/badge/Node.js-Express-339933?style=flat-square&logo=nodedotjs" />
+      <b>🛡️ CyberShield Lab — Cyber Security & Hardening Portal</b><br/>
+      <sub>Interactive Cyber Security Hub and Infrastructure Hardening Engine featuring live defense lab simulations for web, VPS servers, and apps.</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs" />
+      <img src="https://img.shields.io/badge/Cyber_Security-EA4335?style=flat-square&logo=hackthebox" />
+      <img src="https://img.shields.io/badge/DevOps-00e5ff?style=flat-square&logo=docker" />
+      <img src="https://img.shields.io/badge/Linux_VPS-FCC624?style=flat-square&logo=linux" />
       <br/><br/>
-      <a href="https://readersfm.com/" target="_blank"><b>[ Live Site → ]</b></a> &nbsp;|&nbsp; <a href="https://github.com/dreammehedi/epub-pdf-viewer-build" target="_blank"><b>[ Repository → ]</b></a>
+      <a href="https://cybershieldlab.vercel.app/" target="_blank"><b>[ 🌐 Visit Live Site ↗ ]</b></a>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%" valign="top">
-      <a href="https://aksumbase.com/" target="_blank">
-        <img src="https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=800&q=80" width="100%" style="border-radius: 8px;" />
+      <a href="https://muslimahqueen.com/" target="_blank">
+        <img src="https://www.devmehedi.com/images/muslimah-queen-main.png" width="100%" style="border-radius: 8px; border: 1px solid #1f293d;" />
       </a>
       <br/><br/>
-      <b>🏘 AksumBase Real Estate Portal</b><br/>
-      <sub>Enterprise Multi-Role Property Management & Search Engine</sub><br/>
-      <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react" />
-      <img src="https://img.shields.io/badge/Prisma-ORM-2D3748?style=flat-square&logo=prisma" />
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql" />
-      <br/><br/>
-      <a href="https://aksumbase.com/" target="_blank"><b>[ Live Site → ]</b></a> &nbsp;|&nbsp; <a href="https://github.com/dreammehedi/aksumbase-frontend" target="_blank"><b>[ Repository → ]</b></a>
-    </td>
-    <td align="center" width="50%" valign="top">
-      <a href="https://2up-biker-gear-frontend-three.vercel.app/" target="_blank">
-        <img src="https://images.unsplash.com/photo-1558981403-c5f9899a28bc?auto=format&fit=crop&w=800&q=80" width="100%" style="border-radius: 8px;" />
-      </a>
-      <br/><br/>
-      <b>🛒 2-Up Biker Gear E-Commerce</b><br/>
-      <sub>Motorcycle Gear Shop with Dynamic Filters & Stripe Checkout</sub><br/>
-      <img src="https://img.shields.io/badge/React.js-Redux-764ABC?style=flat-square&logo=redux" />
-      <img src="https://img.shields.io/badge/Stripe-Payment-635BFF?style=flat-square&logo=stripe" />
+      <b>👑 Muslimah Queen — Premium Modest Fashion</b><br/>
+      <sub>High-end e-commerce store for modest fashion featuring Borkhas, Abayas, Khimars, Niqabs, and accessories with online checkout & order tracking.</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs" />
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb" />
       <br/><br/>
-      <a href="https://2up-biker-gear-frontend-three.vercel.app/" target="_blank"><b>[ Live Demo → ]</b></a> &nbsp;|&nbsp; <a href="https://github.com/dreammehedi/2up-biker-gear-frontend" target="_blank"><b>[ Repository → ]</b></a>
+      <a href="https://muslimahqueen.com/" target="_blank"><b>[ 🌐 Visit Live Site ↗ ]</b></a>
+    </td>
+    <td align="center" width="50%" valign="top">
+      <a href="https://www.juktoapp.com/" target="_blank">
+        <img src="https://www.devmehedi.com/images/jukto-app-main.png" width="100%" style="border-radius: 8px; border: 1px solid #1f293d;" />
+      </a>
+      <br/><br/>
+      <b>📱 JuktoApp — Digital Identity & Smart Wallet</b><br/>
+      <sub>Digital identity and smart wallet platform enabling users to create digital business cards, manage smart wallets, scan QR codes, and connect.</sub><br/><br/>
+      <img src="https://img.shields.io/badge/React_Native-Expo-61DAFB?style=flat-square&logo=react" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs" />
+      <img src="https://img.shields.io/badge/QR_Engine-00e5ff?style=flat-square&logo=qr-code" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css" />
+      <br/><br/>
+      <a href="https://www.juktoapp.com/" target="_blank"><b>[ 🌐 Visit Live Site ↗ ]</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <a href="https://chorcha.devmehedi.com/" target="_blank">
+        <img src="https://www.devmehedi.com/images/chorcha-main.png" width="100%" style="border-radius: 8px; border: 1px solid #1f293d;" />
+      </a>
+      <br/><br/>
+      <b>🎓 Chorcha — Online Exam & Question Bank Platform</b><br/>
+      <sub>Interactive exam and practice platform offering digital courses, question banks, class leaderboards, exam history, and real-time progress analytics.</sub><br/><br/>
+      <img src="https://img.shields.io/badge/React_Native-Expo-61DAFB?style=flat-square&logo=react" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb" />
+      <br/><br/>
+      <a href="https://chorcha.devmehedi.com/" target="_blank"><b>[ 🌐 Visit Live Site ↗ ]</b></a>
+    </td>
+    <td align="center" width="50%" valign="top">
+      <a href="https://www.readersfm.com/" target="_blank">
+        <img src="https://www.devmehedi.com/images/readers-fm-main.png" width="100%" style="border-radius: 8px; border: 1px solid #1f293d;" />
+      </a>
+      <br/><br/>
+      <b>📖 Readers FM — Smart Question Bank & Audio Platform</b><br/>
+      <sub>Interactive educational platform featuring smart question banks, audiobooks, online reading library with EPUB/PDF reader, and exam prep.</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs" />
+      <img src="https://img.shields.io/badge/EPUB%2FPDF_Reader-D4AF37?style=flat-square&logo=adobe" />
+      <img src="https://img.shields.io/badge/Audio_Engine-764ABC?style=flat-square&logo=podcast" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css" />
+      <br/><br/>
+      <a href="https://www.readersfm.com/" target="_blank"><b>[ 🌐 Visit Live Site ↗ ]</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <a href="https://www.twoupbikergear.com/" target="_blank">
+        <img src="https://www.devmehedi.com/images/twoup-biker-gear-main.png" width="100%" style="border-radius: 8px; border: 1px solid #1f293d;" />
+      </a>
+      <br/><br/>
+      <b>🏍️ 2Up Biker Gear — Motorcycle Apparel Store</b><br/>
+      <sub>E-commerce platform for premium motorcycle riding gear, jackets, vests, helmets, boots, and biker accessories with online checkout.</sub><br/><br/>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript" />
+      <img src="https://img.shields.io/badge/E--Commerce-38B2AC?style=flat-square&logo=shopify" />
+      <img src="https://img.shields.io/badge/Live_Chat-339933?style=flat-square&logo=tawk.to" />
+      <br/><br/>
+      <a href="https://www.twoupbikergear.com/" target="_blank"><b>[ 🌐 Visit Live Site ↗ ]</b></a>
+    </td>
+    <td align="center" width="50%" valign="top">
+      <a href="https://aksumbase.com/" target="_blank">
+        <img src="https://www.devmehedi.com/images/aksumbase-main.png" width="100%" style="border-radius: 8px; border: 1px solid #1f293d;" />
+      </a>
+      <br/><br/>
+      <b>🏘️ AksumBase — Digital Real Estate Marketplace</b><br/>
+      <sub>Digital property marketplace across West Africa operating with LutinX API trust verification and multi-country property listings.</sub><br/><br/>
+      <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react" />
+      <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=antdesign" />
+      <img src="https://img.shields.io/badge/LutinX_API-00e5ff?style=flat-square&logo=blockchain" />
+      <img src="https://img.shields.io/badge/Google_Translate_API-4285F4?style=flat-square&logo=google" />
+      <br/><br/>
+      <a href="https://aksumbase.com/" target="_blank"><b>[ 🌐 Visit Live Site ↗ ]</b></a>
     </td>
   </tr>
 </table>
@@ -136,7 +201,7 @@
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    TECH ARSENAL                           -->
+<!--            5. TECH ARSENAL & SKILLS                       -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -150,30 +215,30 @@
 
 **📱 Mobile & Cross-Platform**<br/><br/>
 <img src="https://skillicons.dev/icons?i=react,flutter,androidstudio,redux,tailwind&theme=dark&perline=5" />
-<br/><sub><sup>React Native (Expo) · Redux Toolkit · NativeWind · Mobile UI</sup></sub>
+<br/><sub><sup>React Native (Expo Router) · Redux Toolkit · NativeWind · Cross-Platform Mobile Apps</sup></sub>
 
 </td>
 <td align="center" width="50%">
 
 **🌐 Frontend Architecture**<br/><br/>
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,tailwind&theme=dark&perline=7" />
-<br/><sub><sup>Next.js 15 · React 19 · TypeScript · Modern Web Design</sup></sub>
+<img src="https://skillicons.dev/icons?i=nextjs,react,threejs,ts,js,html,css,tailwind&theme=dark&perline=8" />
+<br/><sub><sup>Next.js 15 · React 19 · Three.js 3D · TypeScript · Tailwind CSS</sup></sub>
 
 </td>
 </tr>
 <tr>
 <td align="center" width="50%">
 
-**⚙️ Backend & APIs**<br/><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,mongodb,mysql,graphql&theme=dark&perline=7" />
-<br/><sub><sup>Node.js · Express · Prisma · PostgreSQL · MongoDB · REST</sup></sub>
+**⚙️ Backend, Microservices & Databases**<br/><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,prisma,postgres,mongodb,mysql,redis&theme=dark&perline=8" />
+<br/><sub><sup>Node.js · Express · NestJS · Prisma · PostgreSQL · MongoDB · Redis</sup></sub>
 
 </td>
 <td align="center" width="50%">
 
-**🛠️ Cloud, DevOps & Tools**<br/><br/>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma,xd&theme=dark&perline=7" />
-<br/><sub><sup>Git · GitHub Actions · Docker · Postman · Figma UI/UX</sup></sub>
+**🛠️ Cloud, DevOps & Design Tools**<br/><br/>
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github,postman,vscode,figma,xd&theme=dark&perline=8" />
+<br/><sub><sup>Docker · AWS · GitHub Actions · Postman · Linux VPS · Figma UI/UX</sup></sub>
 
 </td>
 </tr>
@@ -184,7 +249,7 @@
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--               GITHUB ECOSYSTEM ANALYTICS                  -->
+<!--            6. GITHUB ECOSYSTEM ANALYTICS                  -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -215,7 +280,7 @@
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    CONNECT SECTION                        -->
+<!--            7. CONNECT SECTION                             -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -223,6 +288,10 @@
 <h3><code>📬 Let's Connect & Build Something Great</code></h3>
 <br/>
 
+<a href="https://www.devmehedi.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-devmehedi.com-00e5ff?style=for-the-badge&logo=googlechrome&logoColor=00e5ff&labelColor=000000" />
+</a>
+&nbsp;
 <a href="https://www.linkedin.com/in/mehedi-hassan-miraj/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
 </a>
@@ -251,7 +320,7 @@
 </td>
 <td align="center" valign="middle">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=4000&pause=1500&color=00E5FF&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=520&height=52&lines=Thanks+for+visiting+my+GitHub+profile%21;Always+excited+for+challenging+projects.;Let%27s+build+impactful+software+together." alt="Footer typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=4000&pause=1500&color=00E5FF&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=520&height=52&lines=Thanks+for+visiting+my+GitHub+profile%21;Always+excited+for+innovative+challenges.;Let%27s+build+impactful+software+together." alt="Footer typing" />
 
 </td>
 </tr>
