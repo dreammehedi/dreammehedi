@@ -1,42 +1,7 @@
 {
   "username": "dreammehedi",
-  "fetched": "2026-10-03",
+  "fetched": "2026-10-04",
   "days": [
-    {
-      "date": "2025-09-28",
-      "level": 1,
-      "count": 2
-    },
-    {
-      "date": "2025-09-29",
-      "level": 1,
-      "count": 2
-    },
-    {
-      "date": "2025-09-30",
-      "level": 1,
-      "count": 2
-    },
-    {
-      "date": "2025-10-01",
-      "level": 1,
-      "count": 2
-    },
-    {
-      "date": "2025-10-02",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-10-03",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-10-04",
-      "level": 0,
-      "count": 0
-    },
     {
       "date": "2025-10-05",
       "level": 0,
@@ -1856,10 +1821,15 @@
       "date": "2026-10-03",
       "level": 1,
       "count": 2
+    },
+    {
+      "date": "2026-10-04",
+      "level": 1,
+      "count": 2
     }
   ],
-  "total": 772,
-  "current_streak": 29,
+  "total": 766,
+  "current_streak": 30,
   "longest_streak": 73,
   "best_day": {
     "date": "2026-06-10",
