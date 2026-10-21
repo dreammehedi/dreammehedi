@@ -1,6 +1,6 @@
 {
   "username": "dreammehedi",
-  "fetched": "2026-10-20",
+  "fetched": "2026-10-21",
   "days": [
     {
       "date": "2025-10-19",
@@ -969,8 +969,8 @@
     },
     {
       "date": "2026-04-30",
-      "level": 2,
-      "count": 5
+      "level": 3,
+      "count": 8
     },
     {
       "date": "2026-05-01",
@@ -1169,8 +1169,8 @@
     },
     {
       "date": "2026-06-09",
-      "level": 3,
-      "count": 8
+      "level": 4,
+      "count": 10
     },
     {
       "date": "2026-06-10",
@@ -1269,8 +1269,8 @@
     },
     {
       "date": "2026-06-29",
-      "level": 1,
-      "count": 2
+      "level": 2,
+      "count": 5
     },
     {
       "date": "2026-06-30",
@@ -1304,8 +1304,8 @@
     },
     {
       "date": "2026-07-06",
-      "level": 1,
-      "count": 2
+      "level": 2,
+      "count": 5
     },
     {
       "date": "2026-07-07",
@@ -1314,18 +1314,18 @@
     },
     {
       "date": "2026-07-08",
-      "level": 2,
-      "count": 5
+      "level": 3,
+      "count": 8
     },
     {
       "date": "2026-07-09",
-      "level": 1,
-      "count": 2
+      "level": 2,
+      "count": 5
     },
     {
       "date": "2026-07-10",
-      "level": 2,
-      "count": 5
+      "level": 3,
+      "count": 8
     },
     {
       "date": "2026-07-11",
@@ -1836,13 +1836,18 @@
       "date": "2026-10-20",
       "level": 1,
       "count": 2
+    },
+    {
+      "date": "2026-10-21",
+      "level": 2,
+      "count": 5
     }
   ],
-  "total": 796,
-  "current_streak": 46,
+  "total": 821,
+  "current_streak": 47,
   "longest_streak": 73,
   "best_day": {
-    "date": "2026-06-10",
+    "date": "2026-06-09",
     "level": 4,
     "count": 10
   }
